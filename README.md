@@ -7,4 +7,7 @@
 
 4. Write a Java program to find a missing number in an array.
 
-5.Find all combination of four elements of an given array whose sum is equal to a given value
+5.Find all combination of four elements of an given array whose sum is equal to a given value.
+
+6.Write a java program to find the array of integrs contains either 0 or -1.
+
