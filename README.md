@@ -6,3 +6,5 @@
 3. Write a Java program to find all pairs of elements in an array whose sum is equal to a specified number.
 
 4. Write a Java program to find a missing number in an array.
+
+5.Find all combination of four elements of an given array whose sum is equal to a given value
