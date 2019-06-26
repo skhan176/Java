@@ -10,4 +10,5 @@
 5.Find all combination of four elements of an given array whose sum is equal to a given value.
 
 6.Write a java program to find the array of integrs contains either 0 or -1.
+7.WAP to Count Occurrence Of Character In String.
 
