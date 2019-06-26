@@ -11,4 +11,5 @@
 
 6.Write a java program to find the array of integrs contains either 0 or -1.
 7.WAP to Count Occurrence Of Character In String.
+8.How to find the most frequently occurring character in a string with Java?
 
